@@ -49,6 +49,7 @@
 			</snapshots>
         </repository>
 	</repositories>
+
 	
     <properties>
         <jeecgboot.common.version>2.1.1</jeecgboot.common.version>
